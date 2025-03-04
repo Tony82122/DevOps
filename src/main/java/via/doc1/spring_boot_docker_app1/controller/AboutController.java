@@ -1,4 +1,4 @@
-package via.doc1.spring_boot_docker_app1;
+package via.doc1.spring_boot_docker_app1.controller;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
