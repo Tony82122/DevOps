@@ -17,14 +17,15 @@ public class AboutController {
                "<h1>DevOps and Cloud</h1>" +
                "<h2>Dockerizing Spring Boot Application</h2>" +
                "<section>" +
-               "<h2>About Me</h2>" +
-               "<p>Describe your <span style=\"color: blue;\">team wish for SEP4</span> here...</p>" +
+                "<h2>About Me</h2>" +
+               "<p>My name is Anthony Richards </p>"+
+               "<p>My <span style=\"color: blue;\">team wish for SEP4</span> is to be the Frontend Developer and create an amazing user experience!</p>" +
                "</section>" +
                "<p>Team members wish</p>" +
                "<ul>" +
-               "<li>Name of team member 1</li>" +
-               "<li>Name of team member 2</li>" +
-               "<li>Name of team member 3</li>" +
+               "<li>Anthony Richards - Frontend </li>" +
+               "<li>Josip - Mr Wiseflow </li>" +
+               "<li>Sneha - Frontend </li>" +
                "</ul>" +
                "<p><a href=\"/\">Back to Home</a></p>" +
                "</body>" +
